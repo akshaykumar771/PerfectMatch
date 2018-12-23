@@ -30,3 +30,13 @@ hr{
 .btn-default{
 	background-color: 1px solid rgba(255,255,255,.1);
 }
+.navbar-inverse .navbar-nav >li>a{
+	color: white;
+	font-family: Lato;
+	font-weight: bold;
+}
+.navbar-inverse .navbar-brand{
+	color: white;
+	font-family: Lato;
+	font-weight: bold;
+}
