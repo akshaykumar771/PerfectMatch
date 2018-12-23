@@ -1,0 +1,32 @@
+#content{
+	text-align: center;
+	padding-top: 25%;
+}
+body{
+	background-image: url(http://www.petsexperience.com/wp-content/uploads/2018/05/Cat-Tree-House-For-Your-Kitty.jpg);
+	background-position:center;
+	background-size:cover;
+	font-family: Lato;
+	color: white;
+
+}
+h1
+{
+	font-weight: 700;
+	font-size: 5em;
+	color: #191970;
+}
+h3{
+	color:red;
+}
+html{
+	height: 100%;
+}
+hr{
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0.2);
+}
+.btn-default{
+	background-color: 1px solid rgba(255,255,255,.1);
+}
