@@ -1,0 +1,10 @@
+<% include partials/header.ejs %>
+<h1> Welcome to my page: <%= thingVar.toUpperCase() %></h1>
+
+<%if(thingVar.toLowerCase() === "rusty"){%>
+
+<p> sample paragraph</p>
+<% } else{ %>
+<p>You should have said Rusty</p>
+<% } %>
+<% include partials/footer.ejs %>
